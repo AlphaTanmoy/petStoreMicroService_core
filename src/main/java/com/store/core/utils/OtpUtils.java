@@ -1,7 +1,10 @@
 package com.store.core.utils;
 
+import org.springframework.stereotype.Component;
+
 import java.util.Random;
 
+@Component
 public class OtpUtils {
 
     public static String generateOTP() {

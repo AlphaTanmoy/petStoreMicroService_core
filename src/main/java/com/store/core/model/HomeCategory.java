@@ -1,6 +1,5 @@
 package com.store.core.model;
 
-import com.store.core.enums.HomeCategorySection;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
